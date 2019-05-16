@@ -1,4 +1,6 @@
 # A_Guide_to_Running_Tensorflow_Models_on_Android
+
+ilgili video : https://www.linkedin.com/feed/update/urn:li:activity:6533702027460124672
 This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 
 # Overview
